@@ -1,0 +1,15 @@
+{
+  "name": "04-bases-node",
+  "version": "1.0.0",
+  "description": "Curso de node",
+  "main": "app.js",
+  "dependencies": {
+    "yargs": "^15.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Javier Padrón",
+  "license": "ISC"
+}
